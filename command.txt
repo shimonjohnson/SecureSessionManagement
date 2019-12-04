@@ -1,0 +1,17 @@
+For MAC OS users
+If you already have php in your system.
+
+Go to the SSM directory on terminal
+/usr/bin/php -S localhost:80
+Start the app using Launcher.html
+
+If not install php and perform the steps above
+
+For Windows users.
+
+You can use something like XAMPP.
+Place the contents of the SSM folder in the htdocs folder in the xampp directory
+and run launcher.html.
+
+If there is a separate path you choose in the htdocs directory,
+change the launcher.html file to point to that custom path. 

@@ -1,0 +1,23 @@
+[
+  {
+    "userId": 100067050505,
+    "firstName": "Shimon",
+    "lastName": "Johnson",
+    "userRole": "admin",
+    "hash": "d84befbbd2b7c244b0dd9a30c23bb6349e502e59"
+  },
+  {
+    "userId": 100067950501,
+    "firstName": "Steven",
+    "lastName": "S",
+    "userRole": "general",
+    "hash": "d84befbbd2b7c244b0dd9a30c23bb6349e502e59"
+  },
+  {
+    "userId": 100067040503,
+    "firstName": "Prakhar",
+    "lastName": "S",
+    "userRole": "editor",
+    "hash": "d84befbbd2b7c244b0dd9a30c23bb6349e502e59"
+  }
+]
